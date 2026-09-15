@@ -3,3 +3,5 @@ Hello World ...
 
 Hello - as the person (user) that used to own this repo - and transferred it away ... I am now a contributor - so can still edit directly (no need for pull requests)
 ... so beware
+
+Hmm - not so happy about that - I'll remove you as a contributor (presume I can under general settings ?)
