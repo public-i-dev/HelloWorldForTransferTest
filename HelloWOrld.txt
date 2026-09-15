@@ -1,2 +1,5 @@
 Hello World ...
 ... lets test repo transfer
+
+Hello - as the person (user) that used to own this repo - and transferred it away ... I am now a contributor - so can still edit directly (no need for pull requests)
+... so beware
